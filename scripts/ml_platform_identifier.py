@@ -1,3 +1,7 @@
+
+# dummy code from AI
+
+
 from transformers import pipeline
 
 # Load pre-trained BERT model for classification
@@ -13,3 +17,4 @@ if __name__ == "__main__":
         print("This platform is relevant for cyber incident tracking.")
     else:
         print("This platform is not relevant.")
+

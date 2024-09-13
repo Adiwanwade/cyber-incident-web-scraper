@@ -1,0 +1,258 @@
+Title: Gender-balanced cyber workforce can lead to greater efficiency: Kris Lovejoy
+Date: No date available
+Description: Gender-balanced cyber workforce can lead to greater efficiency: Kris Lovejoy
+
+Title: Gender-balanced cyber workforce can lead to greater efficiency: Kris Lovejoy
+Date: No date available
+Description: Gender-balanced cyber workforce can lead to greater efficiency: Kris Lovejoy
+
+Title: Smart robots will win the cyber war: Oracle's Larry Ellison
+Date: No date available
+Description: Smart robots will win the cyber war: Oracle's Larry Ellison
+
+Title: Cyber Crime Portal
+Date: No date available
+Description: Cyber Crime Portal
+
+Title: National Cyber Crime Reporting Portal
+Date: No date available
+Description: National Cyber Crime Reporting Portal
+
+Title: OTHER CYBER CRIME
+Date: No date available
+Description: OTHER CYBER CRIME
+
+Title: Cyber Volunteers
+Date: No date available
+Description: Cyber Volunteers
+
+Title: Cyber Volunteer Concept
+Date: No date available
+Description: Cyber Volunteer Concept
+
+Title: Cyber SAFETY TIPS
+Date: No date available
+Description: Cyber SAFETY TIPS
+
+Title: Cyber Awareness
+Date: No date available
+Description: Cyber Awareness
+
+Title: OTHER CYBER CRIME
+Date: No date available
+Description: OTHER CYBER CRIME
+
+Title: Important Alert!!!! Fake mails are being sent impersonating officials of Indian Cyber Crime Coordination Centre - CEO I4C,
+                                     Intelligence Bureau and Delhi Police. The claim is FAKE.
+Date: No date available
+Description: Important Alert!!!! Fake mails are being sent impersonating officials of Indian Cyber Crime Coordination Centre - CEO I4C,
+                                     Intelligence Bureau and Delhi Police. The claim is FAKE.
+
+Title: It is a document to describe the functionalities and workflow
+                                        that is provided to citizens on the cybercrime portal for reporting cybercrimes.
+Date: No date available
+Description: It is a document to describe the functionalities and workflow
+                                        that is provided to citizens on the cybercrime portal for reporting cybercrimes.
+
+Title: CYBER SAFETY TIPS
+Date: No date available
+Description: CYBER SAFETY TIPS
+
+Title: To stay safe in the online world, it is important to follow important cyber safety practices which may help in protecting ourselves and our families from imminent threats that may harm our data and devices.
+Date: No date available
+Description: To stay safe in the online world, it is important to follow important cyber safety practices which may help in protecting ourselves and our families from imminent threats that may harm our data and devices.
+
+Title: CYBER AWARENESS
+Date: No date available
+Description: CYBER AWARENESS
+
+Title: Cyber awareness is an ongoing process of educating employees and citizens about the threats that lurk in cyberspace and how to act responsibly.
+Date: No date available
+Description: Cyber awareness is an ongoing process of educating employees and citizens about the threats that lurk in cyberspace and how to act responsibly.
+
+Title: Comprehensive document prepared by Indian Cybercrime Coordination Centre (I4C) to aware employees and citizens about cyber fraud modus operandi.
+Date: No date available
+Description: Comprehensive document prepared by Indian Cybercrime Coordination Centre (I4C) to aware employees and citizens about cyber fraud modus operandi.
+
+Title: Cyber Dost
+Date: No date available
+Description: Cyber Dost
+
+Title: Tweets by Cyberdost
+Date: No date available
+Description: Tweets by Cyberdost
+
+Title: It is a document to describe the functionalities and workflow
+                                        that is provided to citizens on the cybercrime portal for reporting cybercrimes.
+Date: No date available
+Description: It is a document to describe the functionalities and workflow
+                                        that is provided to citizens on the cybercrime portal for reporting cybercrimes.
+
+Title: Comprehensive document prepared by Indian Cybercrime Coordination Centre (I4C) to aware employees and citizens about cyber fraud modus operandi.
+Date: No date available
+Description: Comprehensive document prepared by Indian Cybercrime Coordination Centre (I4C) to aware employees and citizens about cyber fraud modus operandi.
+
+Title: The Hacker News | #1 Trusted Cybersecurity News Site
+Date: No date available
+Description: The Hacker News | #1 Trusted Cybersecurity News Site
+
+Title: #1 Trusted Cybersecurity News Platform
+Date: No date available
+Description: #1 Trusted Cybersecurity News Platform
+
+Title: Cyber Attacks
+Date: No date available
+Description: Cyber Attacks
+
+Title: The Hacker News | #1 Trusted Cybersecurity News Site
+Date: No date available
+Description: The Hacker News | #1 Trusted Cybersecurity News Site
+
+Title: Even as cyber threats become increasingly sophisticated, the number one attack vector for unauthorized access remains phished credentials ( Verizon DBIR, 2024 ). Solving this problem resolves over 80% of your corporate risk, and a solution is possible.  However, most tools available on the market today cannot offer a complete defense against this attack vector because they were architected to deliver probabilistic defenses. Learn more about the characteristics of Beyond Identity that allow us to deliver deterministic defenses.  The Challenge: Phishing and Credential Theft Phishing attacks trick users into revealing their credentials via deceptive sites or messages sent via SMS, email, and/or voice calls. Traditional defenses, such as end-user training or basic multi-factor authentication (MFA), lower the risk at best but cannot eliminate it. Users may still fall prey to scams, and stolen credentials can be exploited. Legacy MFA is a particularly urgent problem, given that attackers
+Date: No date available
+Description: Even as cyber threats become increasingly sophisticated, the number one attack vector for unauthorized access remains phished credentials ( Verizon DBIR, 2024 ). Solving this problem resolves over 80% of your corporate risk, and a solution is possible.  However, most tools available on the market today cannot offer a complete defense against this attack vector because they were architected to deliver probabilistic defenses. Learn more about the characteristics of Beyond Identity that allow us to deliver deterministic defenses.  The Challenge: Phishing and Credential Theft Phishing attacks trick users into revealing their credentials via deceptive sites or messages sent via SMS, email, and/or voice calls. Traditional defenses, such as end-user training or basic multi-factor authentication (MFA), lower the risk at best but cannot eliminate it. Users may still fall prey to scams, and stolen credentials can be exploited. Legacy MFA is a particularly urgent problem, given that attackers
+
+Title: Cybersecurity researchers have uncovered a new variant of an Android banking trojan called TrickMo that comes packed with new capabilities to evade analysis and display fake login screens to capture victims' banking credentials. "The mechanisms include using malformed ZIP files in combination with JSONPacker," Cleafy security researchers Michele Roviello and Alessandro Strino said . "In addition, the application is installed through a dropper app that shares the same anti-analysis mechanisms." "These features are designed to evade detection and hinder cybersecurity professionals' efforts to analyze and mitigate the malware." TrickMo, first caught in the wild by CERT-Bund in September 2019, has a history of targeting Android devices, particularly targeting users in Germany to siphon one-time passwords (OTPs) and other two-factor authentication (2FA) codes to facilitate financial fraud. The mobile-focused malware is assessed to be the work of
+Date: No date available
+Description: Cybersecurity researchers have uncovered a new variant of an Android banking trojan called TrickMo that comes packed with new capabilities to evade analysis and display fake login screens to capture victims' banking credentials. "The mechanisms include using malformed ZIP files in combination with JSONPacker," Cleafy security researchers Michele Roviello and Alessandro Strino said . "In addition, the application is installed through a dropper app that shares the same anti-analysis mechanisms." "These features are designed to evade detection and hinder cybersecurity professionals' efforts to analyze and mitigate the malware." TrickMo, first caught in the wild by CERT-Bund in September 2019, has a history of targeting Android devices, particularly targeting users in Germany to siphon one-time passwords (OTPs) and other two-factor authentication (2FA) codes to facilitate financial fraud. The mobile-focused malware is assessed to be the work of
+
+Title: Malicious actors are likely leveraging publicly available proof-of-concept (PoC) exploits for recently disclosed security flaws in Progress Software WhatsUp Gold to conduct opportunistic attacks. The activity is said to have commenced on August 30, 2024, a mere five hours after a PoC was released for CVE-2024-6670 (CVSS score: 9.8) by security researcher Sina Kheirkhah of the Summoning Team, who is also credited with discovering and reporting CVE-2024-6671 (CVSS scores: 9.8). Both the critical vulnerabilities, which allow an unauthenticated attacker to retrieve a user's encrypted password, were patched by Progress in mid-August 2024. "The timeline of events suggests that despite the availability of patches, some organizations were unable to apply them quickly, leading to incidents almost immediately following the PoC's publication," Trend Micro researchers Hitomi Kimura and Maria Emreen Viray said in a Thursday analysis. The attacks observed by the cybersec
+Date: No date available
+Description: Malicious actors are likely leveraging publicly available proof-of-concept (PoC) exploits for recently disclosed security flaws in Progress Software WhatsUp Gold to conduct opportunistic attacks. The activity is said to have commenced on August 30, 2024, a mere five hours after a PoC was released for CVE-2024-6670 (CVSS score: 9.8) by security researcher Sina Kheirkhah of the Summoning Team, who is also credited with discovering and reporting CVE-2024-6671 (CVSS scores: 9.8). Both the critical vulnerabilities, which allow an unauthenticated attacker to retrieve a user's encrypted password, were patched by Progress in mid-August 2024. "The timeline of events suggests that despite the availability of patches, some organizations were unable to apply them quickly, leading to incidents almost immediately following the PoC's publication," Trend Micro researchers Hitomi Kimura and Maria Emreen Viray said in a Thursday analysis. The attacks observed by the cybersec
+
+Title: Cybersecurity researchers have uncovered a new malware campaign targeting Linux environments to conduct illicit cryptocurrency mining and deliver botnet malware. The activity, which specifically singles out the Oracle Weblogic server, is designed to deliver a malware strain dubbed Hadooken , according to cloud security firm Aqua. "When Hadooken is executed, it drops a Tsunami malware and deploys a crypto miner," security researcher Assaf Moran said . The attack chains exploit known security vulnerabilities and misconfigurations, such as weak credentials, to obtain an initial foothold and execute arbitrary code on susceptible instances. This is accomplished by launching two nearly-identical payloads, one written in Python and the other, a shell script, both of which are responsible for retrieving the Hadooken malware from a remote server (" 89.185.85[.]102 " or " 185.174.136[.]204 "). "In addition, the shell script version attempts to iterate ov
+Date: No date available
+Description: Cybersecurity researchers have uncovered a new malware campaign targeting Linux environments to conduct illicit cryptocurrency mining and deliver botnet malware. The activity, which specifically singles out the Oracle Weblogic server, is designed to deliver a malware strain dubbed Hadooken , according to cloud security firm Aqua. "When Hadooken is executed, it drops a Tsunami malware and deploys a crypto miner," security researcher Assaf Moran said . The attack chains exploit known security vulnerabilities and misconfigurations, such as weak credentials, to obtain an initial foothold and execute arbitrary code on susceptible instances. This is accomplished by launching two nearly-identical payloads, one written in Python and the other, a shell script, both of which are responsible for retrieving the Hadooken malware from a remote server (" 89.185.85[.]102 " or " 185.174.136[.]204 "). "In addition, the shell script version attempts to iterate ov
+
+Title: Threat Intelligence / Cybercrime
+Date: No date available
+Description: Threat Intelligence / Cybercrime
+
+Title: Cato CTRL (Cyber Threats Research Lab) has released its Q2 2024 Cato CTRL SASE Threat Report . The report highlights critical findings based on the analysis of a staggering 1.38 trillion network flows from more than 2,500 of Cato's global customers, between April and June 2024. Key Insights from the Q2 2024 Cato CTRL SASE Threat Report The report is packed with unique insights that are based on thorough data analysis of network flows. The top three insights for enterprises are as follows. 1) IntelBroker: A Persistent Threat Actor in the Cyber Underground During an in-depth investigation into hacking communities and the dark web, Cato CTRL identified a notorious threat actor known as IntelBroker. IntelBroker is a prominent figure and moderator within the BreachForums hacking community and has been actively involved in the sale of data and source code from major organizations. These include AMD, Apple, Facebook, KrypC, Microsoft, Space-Eyes, T-Mobile and the US Army Aviation and Mi
+Date: No date available
+Description: Cato CTRL (Cyber Threats Research Lab) has released its Q2 2024 Cato CTRL SASE Threat Report . The report highlights critical findings based on the analysis of a staggering 1.38 trillion network flows from more than 2,500 of Cato's global customers, between April and June 2024. Key Insights from the Q2 2024 Cato CTRL SASE Threat Report The report is packed with unique insights that are based on thorough data analysis of network flows. The top three insights for enterprises are as follows. 1) IntelBroker: A Persistent Threat Actor in the Cyber Underground During an in-depth investigation into hacking communities and the dark web, Cato CTRL identified a notorious threat actor known as IntelBroker. IntelBroker is a prominent figure and moderator within the BreachForums hacking community and has been actively involved in the sale of data and source code from major organizations. These include AMD, Apple, Facebook, KrypC, Microsoft, Space-Eyes, T-Mobile and the US Army Aviation and Mi
+
+Title: Chinese Hackers Exploit Visual Studio Code in Southeast Asian Cyberattacks
+Date: No date available
+Description: Chinese Hackers Exploit Visual Studio Code in Southeast Asian Cyberattacks
+
+Title: Maximize Your Cyber Resilience – Learn How CTEM Enhances NIST Cybersecurity Standards
+Date: No date available
+Description: Maximize Your Cyber Resilience – Learn How CTEM Enhances NIST Cybersecurity Standards
+
+Title: Cybersecurity Resources
+Date: No date available
+Description: Cybersecurity Resources
+
+Title: Join experts from XM Cyber and KPMG to unravel DORA's complexities. Gain actionable insights on compliance, resilience, and cybersecurity strategies. Plus, download the exclusive whitepaper! Register now.
+Date: No date available
+Description: Join experts from XM Cyber and KPMG to unravel DORA's complexities. Gain actionable insights on compliance, resilience, and cybersecurity strategies. Plus, download the exclusive whitepaper! Register now.
+
+Title: Want To Excel in Cybersecurity Risk Management?
+Date: No date available
+Description: Want To Excel in Cybersecurity Risk Management?
+
+Title: Manage cybersecurity risk with a master's from Georgetown. Learn more in our Sept. 18 webinar.
+Date: No date available
+Description: Manage cybersecurity risk with a master's from Georgetown. Learn more in our Sept. 18 webinar.
+
+Title: //<![CDATA[
+function runAfterPageLoad(t){"complete"===document.readyState||"interactive"===document.readyState?setTimeout(t,1):document.addEventListener("DOMContentLoaded",t)}runAfterPageLoad(function(){const a=document.querySelector(".slogan");var r=["#1 Trusted Cybersecurity News Platform","Bits, Bytes, and Breaking News","Decrypting Tomorrow's Threats Today","sudo apt-get update cyber_news","Don't Get Pwned, Get Informed"];let s=0;var d="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*(){}[]<>.,;:";function t(){a.classList.remove("glitch"),function(t){let n=0;var e=t.length;const o=setInterval(()=>{a.textContent=t.split("").map((t,e)=>e<n?t:d[Math.floor(Math.random()*d.length)]).join(""),++n>e&&(clearInterval(o),a.classList.add("glitch"),a.setAttribute("data-text",a.textContent),s=(s+1)%r.length)},15)}(r[s])}t(),setInterval(t,4e3)});
+//]]>
+Date: No date available
+Description: //<![CDATA[
+function runAfterPageLoad(t){"complete"===document.readyState||"interactive"===document.readyState?setTimeout(t,1):document.addEventListener("DOMContentLoaded",t)}runAfterPageLoad(function(){const a=document.querySelector(".slogan");var r=["#1 Trusted Cybersecurity News Platform","Bits, Bytes, and Breaking News","Decrypting Tomorrow's Threats Today","sudo apt-get update cyber_news","Don't Get Pwned, Get Informed"];let s=0;var d="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*(){}[]<>.,;:";function t(){a.classList.remove("glitch"),function(t){let n=0;var e=t.length;const o=setInterval(()=>{a.textContent=t.split("").map((t,e)=>e<n?t:d[Math.floor(Math.random()*d.length)]).join(""),++n>e&&(clearInterval(o),a.classList.add("glitch"),a.setAttribute("data-text",a.textContent),s=(s+1)%r.length)},15)}(r[s])}t(),setInterval(t,4e3)});
+//]]>
+
+Title: {"@context":"https://schema.org","@type":"Organization","name":"The Hacker News","url":"https://thehackernews.com/","foundingDate":"2010","logo":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucioIaLjDLMVbAzsIDpaYM754ZmWwLu6oPFfZ95bcJQK9paBjdrkpQnnjTExUWJbExlV10x25riYersOaWF_TFGCFvlw52qXMvrNMGacAb6nkP1RBTMGL1yWdvoajXbj5qf4U9O_sH6tH-BxNpOveZnxMT6bVDX57FaKB1jFlbPExVQgmA4HKKuROJA/s1700/THN.jpg","publisher":{"@type":"Organization","name":"The Hacker News","url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucioIaLjDLMVbAzsIDpaYM754ZmWwLu6oPFfZ95bcJQK9paBjdrkpQnnjTExUWJbExlV10x25riYersOaWF_TFGCFvlw52qXMvrNMGacAb6nkP1RBTMGL1yWdvoajXbj5qf4U9O_sH6tH-BxNpOveZnxMT6bVDX57FaKB1jFlbPExVQgmA4HKKuROJA/s1700/THN.jpg","description":"The Hacker News is the most trusted and popular cybersecurity publication for information security professionals seeking breaking news, actionable insights and analysis."},"sameAs":["https://twitter.com/thehackersnews","https://www.facebook.com/thehackernews","https://www.linkedin.com/company/thehackernews/","https://www.instagram.com/thehackernews/"],"potentialAction":{"@type":"SearchAction","target":"https://thehackernews.com/search?q={search_term_string}","query-input":"required name=search_term_string"},"contactPoint":[{"@type":"ContactPoint","telephone":"+1-123-456-7890","email":"admin@thehackernews.com","contactType":"Site Admin"}],"address":{"@type":"PostalAddress","streetAddress":"8913 Oak Valley Ave.","addressLocality":"New York City","addressRegion":"New York","postalCode":"10469"}}
+Date: No date available
+Description: {"@context":"https://schema.org","@type":"Organization","name":"The Hacker News","url":"https://thehackernews.com/","foundingDate":"2010","logo":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucioIaLjDLMVbAzsIDpaYM754ZmWwLu6oPFfZ95bcJQK9paBjdrkpQnnjTExUWJbExlV10x25riYersOaWF_TFGCFvlw52qXMvrNMGacAb6nkP1RBTMGL1yWdvoajXbj5qf4U9O_sH6tH-BxNpOveZnxMT6bVDX57FaKB1jFlbPExVQgmA4HKKuROJA/s1700/THN.jpg","publisher":{"@type":"Organization","name":"The Hacker News","url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucioIaLjDLMVbAzsIDpaYM754ZmWwLu6oPFfZ95bcJQK9paBjdrkpQnnjTExUWJbExlV10x25riYersOaWF_TFGCFvlw52qXMvrNMGacAb6nkP1RBTMGL1yWdvoajXbj5qf4U9O_sH6tH-BxNpOveZnxMT6bVDX57FaKB1jFlbPExVQgmA4HKKuROJA/s1700/THN.jpg","description":"The Hacker News is the most trusted and popular cybersecurity publication for information security professionals seeking breaking news, actionable insights and analysis."},"sameAs":["https://twitter.com/thehackersnews","https://www.facebook.com/thehackernews","https://www.linkedin.com/company/thehackernews/","https://www.instagram.com/thehackernews/"],"potentialAction":{"@type":"SearchAction","target":"https://thehackernews.com/search?q={search_term_string}","query-input":"required name=search_term_string"},"contactPoint":[{"@type":"ContactPoint","telephone":"+1-123-456-7890","email":"admin@thehackernews.com","contactType":"Site Admin"}],"address":{"@type":"PostalAddress","streetAddress":"8913 Oak Valley Ave.","addressLocality":"New York City","addressRegion":"New York","postalCode":"10469"}}
+
+Title: Threat Intelligence / Cybercrime
+Date: No date available
+Description: Threat Intelligence / Cybercrime
+
+Title: The Hacker News | #1 Trusted Cybersecurity News Site
+Date: No date available
+Description: The Hacker News | #1 Trusted Cybersecurity News Site
+
+Title: #1 Trusted Cybersecurity News Platform
+Date: No date available
+Description: #1 Trusted Cybersecurity News Platform
+
+Title: The Hacker News | #1 Trusted Cybersecurity News Site
+Date: No date available
+Description: The Hacker News | #1 Trusted Cybersecurity News Site
+
+Title: Cybersecurity researchers have uncovered a new variant of an Android banking trojan called TrickMo that comes packed with new capabilities to evade analysis and display fake login screens to capture victims' banking credentials. "The mechanisms include using malformed ZIP files in combination with JSONPacker," Cleafy security researchers Michele Roviello and Alessandro Strino said . "In addition, the application is installed through a dropper app that shares the same anti-analysis mechanisms." "These features are designed to evade detection and hinder cybersecurity professionals' efforts to analyze and mitigate the malware." TrickMo, first caught in the wild by CERT-Bund in September 2019, has a history of targeting Android devices, particularly targeting users in Germany to siphon one-time passwords (OTPs) and other two-factor authentication (2FA) codes to facilitate financial fraud. The mobile-focused malware is assessed to be the work of
+Date: No date available
+Description: Cybersecurity researchers have uncovered a new variant of an Android banking trojan called TrickMo that comes packed with new capabilities to evade analysis and display fake login screens to capture victims' banking credentials. "The mechanisms include using malformed ZIP files in combination with JSONPacker," Cleafy security researchers Michele Roviello and Alessandro Strino said . "In addition, the application is installed through a dropper app that shares the same anti-analysis mechanisms." "These features are designed to evade detection and hinder cybersecurity professionals' efforts to analyze and mitigate the malware." TrickMo, first caught in the wild by CERT-Bund in September 2019, has a history of targeting Android devices, particularly targeting users in Germany to siphon one-time passwords (OTPs) and other two-factor authentication (2FA) codes to facilitate financial fraud. The mobile-focused malware is assessed to be the work of
+
+Title: Cybersecurity researchers have uncovered a new malware campaign targeting Linux environments to conduct illicit cryptocurrency mining and deliver botnet malware. The activity, which specifically singles out the Oracle Weblogic server, is designed to deliver a malware strain dubbed Hadooken , according to cloud security firm Aqua. "When Hadooken is executed, it drops a Tsunami malware and deploys a crypto miner," security researcher Assaf Moran said . The attack chains exploit known security vulnerabilities and misconfigurations, such as weak credentials, to obtain an initial foothold and execute arbitrary code on susceptible instances. This is accomplished by launching two nearly-identical payloads, one written in Python and the other, a shell script, both of which are responsible for retrieving the Hadooken malware from a remote server (" 89.185.85[.]102 " or " 185.174.136[.]204 "). "In addition, the shell script version attempts to iterate ov
+Date: No date available
+Description: Cybersecurity researchers have uncovered a new malware campaign targeting Linux environments to conduct illicit cryptocurrency mining and deliver botnet malware. The activity, which specifically singles out the Oracle Weblogic server, is designed to deliver a malware strain dubbed Hadooken , according to cloud security firm Aqua. "When Hadooken is executed, it drops a Tsunami malware and deploys a crypto miner," security researcher Assaf Moran said . The attack chains exploit known security vulnerabilities and misconfigurations, such as weak credentials, to obtain an initial foothold and execute arbitrary code on susceptible instances. This is accomplished by launching two nearly-identical payloads, one written in Python and the other, a shell script, both of which are responsible for retrieving the Hadooken malware from a remote server (" 89.185.85[.]102 " or " 185.174.136[.]204 "). "In addition, the shell script version attempts to iterate ov
+
+Title: Maximize Your Cyber Resilience – Learn How CTEM Enhances NIST Cybersecurity Standards
+Date: No date available
+Description: Maximize Your Cyber Resilience – Learn How CTEM Enhances NIST Cybersecurity Standards
+
+Title: Cybersecurity Resources
+Date: No date available
+Description: Cybersecurity Resources
+
+Title: Join experts from XM Cyber and KPMG to unravel DORA's complexities. Gain actionable insights on compliance, resilience, and cybersecurity strategies. Plus, download the exclusive whitepaper! Register now.
+Date: No date available
+Description: Join experts from XM Cyber and KPMG to unravel DORA's complexities. Gain actionable insights on compliance, resilience, and cybersecurity strategies. Plus, download the exclusive whitepaper! Register now.
+
+Title: Want To Excel in Cybersecurity Risk Management?
+Date: No date available
+Description: Want To Excel in Cybersecurity Risk Management?
+
+Title: Manage cybersecurity risk with a master's from Georgetown. Learn more in our Sept. 18 webinar.
+Date: No date available
+Description: Manage cybersecurity risk with a master's from Georgetown. Learn more in our Sept. 18 webinar.
+
+Title: //<![CDATA[
+function runAfterPageLoad(t){"complete"===document.readyState||"interactive"===document.readyState?setTimeout(t,1):document.addEventListener("DOMContentLoaded",t)}runAfterPageLoad(function(){const a=document.querySelector(".slogan");var r=["#1 Trusted Cybersecurity News Platform","Bits, Bytes, and Breaking News","Decrypting Tomorrow's Threats Today","sudo apt-get update cyber_news","Don't Get Pwned, Get Informed"];let s=0;var d="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*(){}[]<>.,;:";function t(){a.classList.remove("glitch"),function(t){let n=0;var e=t.length;const o=setInterval(()=>{a.textContent=t.split("").map((t,e)=>e<n?t:d[Math.floor(Math.random()*d.length)]).join(""),++n>e&&(clearInterval(o),a.classList.add("glitch"),a.setAttribute("data-text",a.textContent),s=(s+1)%r.length)},15)}(r[s])}t(),setInterval(t,4e3)});
+//]]>
+Date: No date available
+Description: //<![CDATA[
+function runAfterPageLoad(t){"complete"===document.readyState||"interactive"===document.readyState?setTimeout(t,1):document.addEventListener("DOMContentLoaded",t)}runAfterPageLoad(function(){const a=document.querySelector(".slogan");var r=["#1 Trusted Cybersecurity News Platform","Bits, Bytes, and Breaking News","Decrypting Tomorrow's Threats Today","sudo apt-get update cyber_news","Don't Get Pwned, Get Informed"];let s=0;var d="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*(){}[]<>.,;:";function t(){a.classList.remove("glitch"),function(t){let n=0;var e=t.length;const o=setInterval(()=>{a.textContent=t.split("").map((t,e)=>e<n?t:d[Math.floor(Math.random()*d.length)]).join(""),++n>e&&(clearInterval(o),a.classList.add("glitch"),a.setAttribute("data-text",a.textContent),s=(s+1)%r.length)},15)}(r[s])}t(),setInterval(t,4e3)});
+//]]>
+
+Title: {"@context":"https://schema.org","@type":"Organization","name":"The Hacker News","url":"https://thehackernews.com/","foundingDate":"2010","logo":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucioIaLjDLMVbAzsIDpaYM754ZmWwLu6oPFfZ95bcJQK9paBjdrkpQnnjTExUWJbExlV10x25riYersOaWF_TFGCFvlw52qXMvrNMGacAb6nkP1RBTMGL1yWdvoajXbj5qf4U9O_sH6tH-BxNpOveZnxMT6bVDX57FaKB1jFlbPExVQgmA4HKKuROJA/s1700/THN.jpg","publisher":{"@type":"Organization","name":"The Hacker News","url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucioIaLjDLMVbAzsIDpaYM754ZmWwLu6oPFfZ95bcJQK9paBjdrkpQnnjTExUWJbExlV10x25riYersOaWF_TFGCFvlw52qXMvrNMGacAb6nkP1RBTMGL1yWdvoajXbj5qf4U9O_sH6tH-BxNpOveZnxMT6bVDX57FaKB1jFlbPExVQgmA4HKKuROJA/s1700/THN.jpg","description":"The Hacker News is the most trusted and popular cybersecurity publication for information security professionals seeking breaking news, actionable insights and analysis."},"sameAs":["https://twitter.com/thehackersnews","https://www.facebook.com/thehackernews","https://www.linkedin.com/company/thehackernews/","https://www.instagram.com/thehackernews/"],"potentialAction":{"@type":"SearchAction","target":"https://thehackernews.com/search?q={search_term_string}","query-input":"required name=search_term_string"},"contactPoint":[{"@type":"ContactPoint","telephone":"+1-123-456-7890","email":"admin@thehackernews.com","contactType":"Site Admin"}],"address":{"@type":"PostalAddress","streetAddress":"8913 Oak Valley Ave.","addressLocality":"New York City","addressRegion":"New York","postalCode":"10469"}}
+Date: No date available
+Description: {"@context":"https://schema.org","@type":"Organization","name":"The Hacker News","url":"https://thehackernews.com/","foundingDate":"2010","logo":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucioIaLjDLMVbAzsIDpaYM754ZmWwLu6oPFfZ95bcJQK9paBjdrkpQnnjTExUWJbExlV10x25riYersOaWF_TFGCFvlw52qXMvrNMGacAb6nkP1RBTMGL1yWdvoajXbj5qf4U9O_sH6tH-BxNpOveZnxMT6bVDX57FaKB1jFlbPExVQgmA4HKKuROJA/s1700/THN.jpg","publisher":{"@type":"Organization","name":"The Hacker News","url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucioIaLjDLMVbAzsIDpaYM754ZmWwLu6oPFfZ95bcJQK9paBjdrkpQnnjTExUWJbExlV10x25riYersOaWF_TFGCFvlw52qXMvrNMGacAb6nkP1RBTMGL1yWdvoajXbj5qf4U9O_sH6tH-BxNpOveZnxMT6bVDX57FaKB1jFlbPExVQgmA4HKKuROJA/s1700/THN.jpg","description":"The Hacker News is the most trusted and popular cybersecurity publication for information security professionals seeking breaking news, actionable insights and analysis."},"sameAs":["https://twitter.com/thehackersnews","https://www.facebook.com/thehackernews","https://www.linkedin.com/company/thehackernews/","https://www.instagram.com/thehackernews/"],"potentialAction":{"@type":"SearchAction","target":"https://thehackernews.com/search?q={search_term_string}","query-input":"required name=search_term_string"},"contactPoint":[{"@type":"ContactPoint","telephone":"+1-123-456-7890","email":"admin@thehackernews.com","contactType":"Site Admin"}],"address":{"@type":"PostalAddress","streetAddress":"8913 Oak Valley Ave.","addressLocality":"New York City","addressRegion":"New York","postalCode":"10469"}}
+
+Title: Cato CTRL (Cyber Threats Research Lab) has released its Q2 2024 Cato CTRL SASE Threat Report . The report highlights critical findings based on the analysis of a staggering 1.38 trillion network flows from more than 2,500 of Cato's global customers, between April and June 2024. Key Insights from the Q2 2024 Cato CTRL SASE Threat Report The report is packed with unique insights that are based on thorough data analysis of network flows. The top three insights for enterprises are as follows. 1) IntelBroker: A Persistent Threat Actor in the Cyber Underground During an in-depth investigation into hacking communities and the dark web, Cato CTRL identified a notorious threat actor known as IntelBroker. IntelBroker is a prominent figure and moderator within the BreachForums hacking community and has been actively involved in the sale of data and source code from major organizations. These include AMD, Apple, Facebook, KrypC, Microsoft, Space-Eyes, T-Mobile and the US Army Aviation and Mi
+Date: No date available
+Description: Cato CTRL (Cyber Threats Research Lab) has released its Q2 2024 Cato CTRL SASE Threat Report . The report highlights critical findings based on the analysis of a staggering 1.38 trillion network flows from more than 2,500 of Cato's global customers, between April and June 2024. Key Insights from the Q2 2024 Cato CTRL SASE Threat Report The report is packed with unique insights that are based on thorough data analysis of network flows. The top three insights for enterprises are as follows. 1) IntelBroker: A Persistent Threat Actor in the Cyber Underground During an in-depth investigation into hacking communities and the dark web, Cato CTRL identified a notorious threat actor known as IntelBroker. IntelBroker is a prominent figure and moderator within the BreachForums hacking community and has been actively involved in the sale of data and source code from major organizations. These include AMD, Apple, Facebook, KrypC, Microsoft, Space-Eyes, T-Mobile and the US Army Aviation and Mi
+
+Title: Hacking
+Date: No date available
+Description: Hacking
+
+Title: Data Breaches
+Date: No date available
+Description: Data Breaches
+
+Title: Two large users of WazirX have raised questions about the legal proceedings over the $230-million cyberhack. This and more in today’s ETtech Top 5.
+Date: 13 Sep, 2024
+Description: Two large users of WazirX have raised questions about the legal proceedings over the $230-million cyberhack. This and more in today’s ETtech Top 5.
+
+Title: Indian Govt launched Central Suspect Registry and Samanvaya platform to combat rising cybercrime threats
+Date: No date available
+Description: Indian Govt launched Central Suspect Registry and Samanvaya platform to combat rising cybercrime threats
+
+Title: Indian Govt launched Central Suspect Registry and Samanvaya platform to combat rising cybercrime threats
+Date: No date available
+Description: Indian Govt launched Central Suspect Registry and Samanvaya platform to combat rising cybercrime threats
+
+Title: Cybersecurity and Infrastructure Security Agency
+Date: No date available
+Description: Cybersecurity and Infrastructure Security Agency
+
+Title: Cybersecurity and Infrastructure Security Agency
+Date: No date available
+Description: Cybersecurity and Infrastructure Security Agency
+
