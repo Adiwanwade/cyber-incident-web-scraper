@@ -6,7 +6,7 @@ from visualization.visualize import plot_heatmap
 from visualization.visualize import plot_geospatial
 from visualization.visualize import plot_network_graph
 from scripts.scraper import scrape_all
-from scripts.ml_platform_identifier import identify_cyber_platform
+# from scripts.ml_platform_identifier import identify_cyber_platform
 def main():
     # Step 1: Scrape data and store in database
     incidents=scrape_all()
