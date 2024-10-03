@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SignUp</title>
+</head>
+
+<body>
+    <form action="/auth/signup" method="POST">
+        <label for="fullName">Full Name</label>
+        <input type="text" id="fullName" name="fullName" required>
+
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" required>
+
+        <label for="confirmPassword">Confirm Password</label>
+        <input type="password" id="confirmPassword" name="confirmPassword" required>
+
+        <a href="/auth/login">Already have an account?</a>
+
+        <button type="submit">SignUp</button>
+    </form>
+</body>
+
+</html>
